@@ -1,0 +1,10 @@
+{
+  "layer": [
+        {
+          "rect_cover": "123 px, 111 px, 525 px, 454 px"
+        },
+        {
+          "rect_cover": "210 px, 555 px, 458 px, 481 px"
+        }
+      ]
+}
