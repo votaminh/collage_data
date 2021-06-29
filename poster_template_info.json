@@ -6,10 +6,20 @@
       "iap": false,
       "name": "poster1"
     },
-{
+    {
       "count_layer": 2,
       "iap": false,
       "name": "poster2"
+    },
+    {
+      "count_layer": 2,
+      "iap": false,
+      "name": "poster3"
+    },
+    {
+      "count_layer": 2,
+      "iap": false,
+      "name": "poster4"
     }
   ]
 }
