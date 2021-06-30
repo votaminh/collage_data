@@ -2,94 +2,104 @@
   "type_data": "poster",
   "data": [
     {
-      "count_layer": 2,
-      "iap": false,
-      "name": "poster1"
+      "count": 1,
+      "list_poster": [
+        {
+          "count_photo" : 1,
+          "iap": false,
+          "name": "poster1"
+        },
+        {
+          "count_photo" : 1,
+          "iap": false,
+          "name": "poster2"
+        },
+        {
+          "count_photo" : 1,
+          "iap": false,
+          "name": "poster3"
+        },
+        {
+          "count_photo" : 1,
+          "iap": false,
+          "name": "poster4"
+        },
+        {
+          "count_photo" : 1,
+          "iap": false,
+          "name": "poster5"
+        },
+        {
+          "count_photo" : 1,
+          "iap": false,
+          "name": "poster6"
+        },
+        {
+          "count_photo" : 1,
+          "iap": false,
+          "name": "poster7"
+        },
+        {
+          "count_photo" : 1,
+          "iap": false,
+          "name": "poster8"
+        }
+      ]
     },
     {
-      "count_layer": 2,
-      "iap": false,
-      "name": "poster2"
-    },
-    {
-      "count_layer": 2,
-      "iap": false,
-      "name": "poster3"
-    },
-    {
-      "count_layer": 2,
-      "iap": false,
-      "name": "poster4"
-    },
-    {
-      "count_layer": 2,
-      "iap": false,
-      "name": "poster5"
-    },
-    {
-      "count_layer": 2,
-      "iap": false,
-      "name": "poster6"
-    },
-    {
-      "count_layer": 2,
-      "iap": false,
-      "name": "poster7"
-    },
-    {
-      "count_layer": 2,
-      "iap": false,
-      "name": "poster8"
-    },
-    {
-      "count_layer": 2,
-      "iap": false,
-      "name": "poster9"
-    },
-    {
-      "count_layer": 2,
-      "iap": false,
-      "name": "poster10"
-    },
-    {
-      "count_layer": 1,
-      "iap": false,
-      "name": "poster1"
-    },
-    {
-      "count_layer": 1,
-      "iap": false,
-      "name": "poster2"
-    },
-    {
-      "count_layer": 1,
-      "iap": false,
-      "name": "poster3"
-    },
-    {
-      "count_layer": 1,
-      "iap": false,
-      "name": "poster4"
-    },
-    {
-      "count_layer": 1,
-      "iap": false,
-      "name": "poster5"
-    },
-    {
-      "count_layer": 1,
-      "iap": false,
-      "name": "poster6"
-    },
-    {
-      "count_layer": 1,
-      "iap": false,
-      "name": "poster7"
-    },
-    {
-      "count_layer": 1,
-      "iap": false,
-      "name": "poster8"
+      "count": 2,
+      "list_poster": [
+        {
+          "count_photo" : 2,
+          "iap": false,
+          "name": "poster1"
+        },
+        {
+          "count_photo" : 2
+          "iap": false,
+          "name": "poster2"
+        },
+        {
+          "count_photo" : 2
+          "iap": false,
+          "name": "poster3"
+        },
+        {
+          "count_photo" : 2
+          "iap": false,
+          "name": "poster4"
+        },
+        {
+          "count_photo" : 2
+          "iap": false,
+          "name": "poster5"
+        },
+        {
+          "count_photo" : 2
+          "iap": false,
+          "name": "poster6"
+        },
+        {
+          "count_photo" : 2
+          "iap": false,
+          "name": "poster7"
+        },
+        {
+          "count_photo" : 2
+          "iap": false,
+          "name": "poster8"
+        },
+        {
+          "count_photo" : 2
+          "iap": false,
+          "name": "poster9"
+        },
+        {
+          "count_photo" : 2
+          "iap": false,
+          "name": "poster10"
+        }
+      ]
     }
   ]
 }
