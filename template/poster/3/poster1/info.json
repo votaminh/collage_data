@@ -1,0 +1,16 @@
+{
+  "layer": [
+    {
+      "name": "layer1",
+      "rect_cover": "176 px, 180 px, 838 px, 495 px"
+    },
+    {
+      "name": "layer2",
+      "rect_cover": "338 px, 764 px, 841 px, 485 px"
+    },
+    {
+      "name": "layer3",
+      "rect_cover": "176 px, 1339 px, 838 px, 472 px"
+    }
+  ]
+}
