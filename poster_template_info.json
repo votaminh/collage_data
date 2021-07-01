@@ -7,42 +7,50 @@
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster1"
+          "name": "poster1",
+          "type": 1
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster2"
+          "name": "poster2",
+          "type": 1
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster3"
+          "name": "poster3",
+          "type": 1
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster4"
+          "name": "poster4",
+          "type": 1
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster5"
+          "name": "poster5",
+          "type": 1
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster6"
+          "name": "poster6",
+          "type": 1
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster7"
+          "name": "poster7",
+          "type": 1
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster8"
+          "name": "poster8",
+          "type": 1
         }
       ]
     },
@@ -52,52 +60,62 @@
         {
           "count_photo": 2,
           "iap": false,
-          "name": "poster1"
+          "name": "poster1",
+          "type": 1
         },
         {
           "count_photo": 2,
           "iap": false,
-          "name": "poster2"
+          "name": "poster2",
+          "type": 1
         },
         {
           "count_photo": 2,
           "iap": false,
-          "name": "poster3"
+          "name": "poster3",
+          "type": 1
         },
         {
           "count_photo": 2,
           "iap": false,
-          "name": "poster4"
+          "name": "poster4",
+          "type": 1
         },
         {
           "count_photo": 2,
           "iap": false,
-          "name": "poster5"
+          "name": "poster5",
+          "type": 1
         },
         {
           "count_photo": 2,
           "iap": false,
-          "name": "poster6"
+          "name": "poster6",
+          "type": 1
         },
         {
           "count_photo": 2,
           "iap": false,
-          "name": "poster7"
+          "name": "poster7",
+          "type": 1
         },
         {
           "count_photo": 2,
           "iap": false,
-          "name": "poster8"
+          "name": "poster8",
+          "type": 1
         },
         {
           "count_photo": 2,
           "iap": false,
-          "name": "poster9"
+          "name": "poster9",
+          "type": 1
         },
         {
           "count_photo": 2,
           "iap": false,
-          "name": "poster10"
+          "name": "poster10",
+          "type": 1
         }
       ]
     },
@@ -107,47 +125,56 @@
         {
           "count_photo": 3,
           "iap": false,
-          "name": "poster1"
+          "name": "poster1",
+          "type": 1
         },
         {
           "count_photo": 3,
           "iap": false,
-          "name": "poster2"
+          "name": "poster2",
+          "type": 1
         },
         {
           "count_photo": 3,
           "iap": false,
-          "name": "poster3"
+          "name": "poster3",
+          "type": 1
         },
         {
           "count_photo": 3,
           "iap": false,
-          "name": "poster4"
+          "name": "poster4",
+          "type": 1
         },
         {
           "count_photo": 3,
           "iap": false,
-          "name": "poster5"
+          "name": "poster5",
+          "type": 1
         },
         {
           "count_photo": 3,
           "iap": false,
-          "name": "poster6"
+          "name": "poster6",
+          "type": 1
         },
         {
           "count_photo": 3,
           "iap": false,
-          "name": "poster7"
+          "name": "poster7",
+          "type": 1
         },
         {
           "count_photo": 3,
           "iap": false,
-          "name": "poster8"
+          "name": "poster8",
+          "type": 1
         },
         {
           "count_photo": 3,
           "iap": false,
-          "name": "poster9"
+          "name": "poster9",
+          "type": 1
         }
       ]
     }

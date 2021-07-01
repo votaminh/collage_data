@@ -1,0 +1,4 @@
+-----------------
+* Type của poster:
+	1 : là của mình tự định nghĩa
+	2 : của meitu
