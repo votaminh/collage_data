@@ -7,50 +7,56 @@
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster1",
-          "type": 1
+          "name": "3002000041",
+          "type": 2
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster2",
-          "type": 1
+          "name": "3002000046",
+          "type": 2
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster3",
-          "type": 1
+          "name": "3002000049",
+          "type": 2
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster4",
-          "type": 1
+          "name": "3002000050",
+          "type": 2
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster5",
-          "type": 1
+          "name": "3002000076",
+          "type": 2
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster6",
-          "type": 1
+          "name": "3011000006",
+          "type": 2
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster7",
-          "type": 1
+          "name": "3011000008",
+          "type": 2
         },
         {
           "count_photo": 1,
           "iap": false,
-          "name": "poster8",
-          "type": 1
+          "name": "3011000022",
+          "type": 2
+        },
+        {
+          "count_photo": 1,
+          "iap": false,
+          "name": "3011000042",
+          "type": 2
         }
       ]
     },
