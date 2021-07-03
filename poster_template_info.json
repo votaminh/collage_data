@@ -66,30 +66,6 @@
         {
           "count_photo": 2,
           "iap": false,
-          "name": "poster1",
-          "type": 1
-        },
-        {
-          "count_photo": 2,
-          "iap": false,
-          "name": "poster2",
-          "type": 1
-        },
-        {
-          "count_photo": 2,
-          "iap": false,
-          "name": "poster3",
-          "type": 1
-        },
-        {
-          "count_photo": 2,
-          "iap": false,
-          "name": "poster4",
-          "type": 1
-        },
-        {
-          "count_photo": 2,
-          "iap": false,
           "name": "3012000155",
           "type": 2
         },
