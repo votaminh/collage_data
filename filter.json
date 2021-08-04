@@ -2,138 +2,168 @@
   "name": "filter",
   "data": [
     {
-      "name": "red and blue",
+      "topic": "red and blue",
       "list_filter": [
-        "Hope 01",
-        "Hope 01_S",
-        "Hope 02",
-        "Hope 02_S",
-        "Hope 03",
-        "Hope 03_S",
-        "Hope 04",
-        "Hope 04_S",
-        "Hope 05",
-        "Hope 05_S",
-        "Impulse 01",
-        "Impulse 01_S",
-        "Impulse 02",
-        "Impulse 02_S",
-        "Impulse 03",
-        "Impulse 03_S",
-        "Impulse 04",
-        "Impulse 04_S",
-        "Impulse 05",
-        "Impulse 05_S",
-        "Midnight 01",
-        "Midnight 01_S",
-        "Midnight 02",
-        "Midnight 02_S",
-        "Midnight 03",
-        "Midnight 03_S",
-        "Midnight 04",
-        "Midnight 04_S",
-        "Midnight 05",
-        "Midnight 05_S",
-        "Spotlight 01",
-        "Spotlight 01_S",
-        "Spotlight 02",
-        "Spotlight 02_S",
-        "Spotlight 03",
-        "Spotlight 03_S",
-        "Spotlight 04",
-        "Spotlight 04_S",
-        "Spotlight 05",
-        "Spotlight 05_S"
-      ]
-    },
-    {
-      "name": "red and blue2",
-      "list_filter": [
-        "Hope 01",
-        "Hope 01_S",
-        "Hope 02",
-        "Hope 02_S",
-        "Hope 03",
-        "Hope 03_S",
-        "Hope 04",
-        "Hope 04_S",
-        "Hope 05",
-        "Hope 05_S",
-        "Impulse 01",
-        "Impulse 01_S",
-        "Impulse 02",
-        "Impulse 02_S",
-        "Impulse 03",
-        "Impulse 03_S",
-        "Impulse 04",
-        "Impulse 04_S",
-        "Impulse 05",
-        "Impulse 05_S",
-        "Midnight 01",
-        "Midnight 01_S",
-        "Midnight 02",
-        "Midnight 02_S",
-        "Midnight 03",
-        "Midnight 03_S",
-        "Midnight 04",
-        "Midnight 04_S",
-        "Midnight 05",
-        "Midnight 05_S",
-        "Spotlight 01",
-        "Spotlight 01_S",
-        "Spotlight 02",
-        "Spotlight 02_S",
-        "Spotlight 03",
-        "Spotlight 03_S",
-        "Spotlight 04",
-        "Spotlight 04_S",
-        "Spotlight 05",
-        "Spotlight 05_S"
-      ]
-    },
-    {
-      "name": "red and blue3",
-      "list_filter": [
-        "Hope 01",
-        "Hope 01_S",
-        "Hope 02",
-        "Hope 02_S",
-        "Hope 03",
-        "Hope 03_S",
-        "Hope 04",
-        "Hope 04_S",
-        "Hope 05",
-        "Hope 05_S",
-        "Impulse 01",
-        "Impulse 01_S",
-        "Impulse 02",
-        "Impulse 02_S",
-        "Impulse 03",
-        "Impulse 03_S",
-        "Impulse 04",
-        "Impulse 04_S",
-        "Impulse 05",
-        "Impulse 05_S",
-        "Midnight 01",
-        "Midnight 01_S",
-        "Midnight 02",
-        "Midnight 02_S",
-        "Midnight 03",
-        "Midnight 03_S",
-        "Midnight 04",
-        "Midnight 04_S",
-        "Midnight 05",
-        "Midnight 05_S",
-        "Spotlight 01",
-        "Spotlight 01_S",
-        "Spotlight 02",
-        "Spotlight 02_S",
-        "Spotlight 03",
-        "Spotlight 03_S",
-        "Spotlight 04",
-        "Spotlight 04_S",
-        "Spotlight 05",
-        "Spotlight 05_S"
+        {
+          "filter_name": "Hope 01",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Hope 01_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Hope 02",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Hope 02_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Hope 03",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Hope 03_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Hope 04",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Hope 04_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Hope 05",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Hope 05_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Impulse 01",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Impulse 01_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Impulse 02",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Impulse 02_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Impulse 03",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Impulse 03_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Impulse 04",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Impulse 04_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Impulse 05",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Impulse 05_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Midnight 01",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Midnight 01_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Midnight 02",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Midnight 02_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Midnight 03",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Midnight 03_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Midnight 04",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Midnight 04_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Midnight 05",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Midnight 05_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Spotlight 01",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Spotlight 01_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Spotlight 02",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Spotlight 02_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Spotlight 03",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Spotlight 03_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Spotlight 04",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Spotlight 04_S",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Spotlight 05",
+          "topic": "red and blue"
+        },
+        {
+          "filter_name": "Spotlight 05_S",
+          "topic": "red and blue"
+        }
       ]
     }
   ]
